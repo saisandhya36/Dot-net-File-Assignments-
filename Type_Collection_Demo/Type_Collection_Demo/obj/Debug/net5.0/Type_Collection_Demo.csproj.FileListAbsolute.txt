@@ -1,0 +1,16 @@
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\Type_Collection_Demo.exe
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\Type_Collection_Demo.deps.json
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\Type_Collection_Demo.runtimeconfig.json
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\Type_Collection_Demo.runtimeconfig.dev.json
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\Type_Collection_Demo.dll
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\ref\Type_Collection_Demo.dll
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\bin\Debug\net5.0\Type_Collection_Demo.pdb
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.csproj.AssemblyReference.cache
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.AssemblyInfoInputs.cache
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.AssemblyInfo.cs
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.csproj.CoreCompileInputs.cache
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.dll
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\ref\Type_Collection_Demo.dll
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.pdb
+D:\training .net\mastek\Type_Collection_Demo\Type_Collection_Demo\obj\Debug\net5.0\Type_Collection_Demo.genruntimeconfig.cache
