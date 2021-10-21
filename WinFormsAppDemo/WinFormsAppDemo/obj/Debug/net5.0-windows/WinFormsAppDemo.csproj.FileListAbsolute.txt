@@ -1,0 +1,8 @@
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.csproj.AssemblyReference.cache
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.Calculator.resources
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.Form1.resources
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.csproj.GenerateResource.cache
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.AssemblyInfoInputs.cache
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.AssemblyInfo.cs
+D:\training .net\mastek\WinFormsAppDemo\WinFormsAppDemo\obj\Debug\net5.0-windows\WinFormsAppDemo.csproj.CoreCompileInputs.cache
