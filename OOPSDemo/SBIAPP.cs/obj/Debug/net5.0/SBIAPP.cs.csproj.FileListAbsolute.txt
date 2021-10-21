@@ -1,0 +1,5 @@
+D:\training .net\mastek\OOPSDemo\SBIAPP.cs\obj\Debug\net5.0\SBIAPP.cs.csproj.AssemblyReference.cache
+D:\training .net\mastek\OOPSDemo\SBIAPP.cs\obj\Debug\net5.0\SBIAPP.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\training .net\mastek\OOPSDemo\SBIAPP.cs\obj\Debug\net5.0\SBIAPP.cs.AssemblyInfoInputs.cache
+D:\training .net\mastek\OOPSDemo\SBIAPP.cs\obj\Debug\net5.0\SBIAPP.cs.AssemblyInfo.cs
+D:\training .net\mastek\OOPSDemo\SBIAPP.cs\obj\Debug\net5.0\SBIAPP.cs.csproj.CoreCompileInputs.cache
